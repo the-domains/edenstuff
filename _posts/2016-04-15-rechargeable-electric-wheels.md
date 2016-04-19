@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-19T02:23:06.316Z'
+datePublished: '2016-04-19T02:23:10.745Z'
 sourcePath: _posts/2016-04-15-rechargeable-electric-wheels.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/electric-bikes-scooters-motorcycles-2015'
@@ -21,7 +21,7 @@ author:
   - name: ''
     url: ''
 published: true
-dateModified: '2016-04-19T02:23:03.928Z'
+dateModified: '2016-04-19T02:23:05.995Z'
 title: Rechargeable Electric Wheels
 app_links: []
 publisher:
