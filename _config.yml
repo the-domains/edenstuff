@@ -1,14 +1,14 @@
-layout_spectrum: 0.41348427440971136
-typography_spectrum: 0.2985855236183852
+layout_spectrum: 0.46330121881328523
+typography_spectrum: 0.24838406313210726
 color:
-  brandStrength: 0.5829977253451943
-  lightness: 0.437895116629079
-  saturation: 0.16329821525141597
-  rhythmicContrast: 0.13643069681711495
+  brandStrength: 0.46516492520458996
+  lightness: 0.9785837444942445
+  saturation: 0.8651575346011668
+  rhythmicContrast: 0.7943010572344065
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: edenstuff
